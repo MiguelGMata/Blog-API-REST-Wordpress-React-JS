@@ -1,0 +1,28 @@
+.like__btn {
+    border: none;
+    background-color: #2490e9;
+    color: white;
+    cursor: pointer;
+    padding: 0.8rem;
+    border-radius: 0.4rem;
+    max-width: 200px;
+    transition: all ease 0.3s;
+    display: flex;
+    align-items: center;
+    margin-left: 0.3rem;
+  
+}
+
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 10px;
+}
+/*
+<button class="like__btn">
+<span>0</span>
+</button>*/
